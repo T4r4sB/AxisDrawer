@@ -30,3 +30,6 @@ clap = { version = "4.3.19", features = ["derive"] }
 [build-dependencies]
 gl_generator = "0.14"
 cfg_aliases = "0.1.1"
+
+[profile.release]
+strip = "debuginfo"
