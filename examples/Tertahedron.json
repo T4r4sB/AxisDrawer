@@ -1,0 +1,10 @@
+{
+  "edges": [
+    {"v1_index": 0, "v2_index": 1, "length_index": 0},
+    {"v1_index": 0, "v2_index": 2, "length_index": 0},
+    {"v1_index": 0, "v2_index": 3, "length_index": 0},
+    {"v1_index": 1, "v2_index": 2, "length_index": 0},
+    {"v1_index": 1, "v2_index": 3, "length_index": 0},
+    {"v1_index": 2, "v2_index": 3, "length_index": 0}
+  ]
+}

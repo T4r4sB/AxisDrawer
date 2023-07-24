@@ -1,0 +1,46 @@
+{
+  "edges": [
+    {"v1_index": 0, "v2_index": 1, "length_index": 0},
+    {"v1_index": 0, "v2_index": 2, "length_index": 0},
+    {"v1_index": 1, "v2_index": 2, "length_index": 0},
+    
+    {"v1_index": 0, "v2_index": 3, "length_index": 0},
+    {"v1_index": 0, "v2_index": 4, "length_index": 0},
+    {"v1_index": 1, "v2_index": 5, "length_index": 0},
+    {"v1_index": 1, "v2_index": 6, "length_index": 0},
+    {"v1_index": 2, "v2_index": 7, "length_index": 0},
+    {"v1_index": 2, "v2_index": 8, "length_index": 0},
+    
+    {"v1_index": 3, "v2_index": 4, "length_index": 0},
+    {"v1_index": 4, "v2_index": 5, "length_index": 0},
+    {"v1_index": 5, "v2_index": 6, "length_index": 0},
+    {"v1_index": 6, "v2_index": 7, "length_index": 0},
+    {"v1_index": 7, "v2_index": 8, "length_index": 0},
+    {"v1_index": 8, "v2_index": 3, "length_index": 0},
+    
+    {"v1_index": 9, "v2_index": 3, "length_index": 0},
+    {"v1_index": 9, "v2_index": 4, "length_index": 0},
+    {"v1_index": 10, "v2_index": 5, "length_index": 0},
+    {"v1_index": 10, "v2_index": 6, "length_index": 0},
+    {"v1_index": 11, "v2_index": 7, "length_index": 0},
+    {"v1_index": 11, "v2_index": 8, "length_index": 0},
+    
+    {"v1_index": 9, "v2_index": 10, "length_index": 0},
+    {"v1_index": 9, "v2_index": 11, "length_index": 0},
+    {"v1_index": 10, "v2_index": 11, "length_index": 0},
+
+    {"v1_index": 0, "v2_index": 5, "length_index": 1},
+    {"v1_index": 1, "v2_index": 4, "length_index": 1},
+    {"v1_index": 1, "v2_index": 7, "length_index": 1},
+    {"v1_index": 2, "v2_index": 6, "length_index": 1},
+    {"v1_index": 2, "v2_index": 3, "length_index": 1},
+    {"v1_index": 0, "v2_index": 8, "length_index": 1},
+    
+    {"v1_index": 9, "v2_index": 5, "length_index": 1},
+    {"v1_index": 10, "v2_index": 4, "length_index": 1},
+    {"v1_index": 10, "v2_index": 7, "length_index": 1},
+    {"v1_index": 11, "v2_index": 6, "length_index": 1},
+    {"v1_index": 11, "v2_index": 3, "length_index": 1},
+    {"v1_index": 9, "v2_index": 8, "length_index": 1}
+  ]
+}
